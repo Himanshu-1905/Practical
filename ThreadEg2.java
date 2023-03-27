@@ -1,7 +1,7 @@
 
 //Directly we use thread class without extend
 //with & without set name we can name the tread
-public class Threadeg2 {
+public class ThreadEg2 {
 public void run() {
 	System.out.println("Himanshu");
 }
